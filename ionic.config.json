@@ -1,5 +1,6 @@
 {
-  "name": "myApp",
+  "name": "sbfl",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "726d9de2"
 }
